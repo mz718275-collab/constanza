@@ -1,0 +1,6 @@
+{
+  "name": "Turismo Smart AI",
+  "description": "Sistema web dinámico para el catálogo de sitios turísticos, museos y espacios culturales con mapa OpenStreetMap, enlace a Google Maps, persistencia en Supabase y asistente inteligente Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
